@@ -13,8 +13,6 @@ sites:
     url: https://allinone-vt.ch
   - name: Auf Sicher CH
     url: https://auf-sicher.ch
-  - name: Auf Sicher Swiss
-    url: https://auf-sicher.swiss
   - name: Ally.Vision
     url: https://ally.vision
   - name: My.Ally.Vision
@@ -32,9 +30,9 @@ sites:
   - name: Bonnie & Clyde
     url: https://bonnie-and-clyde.com
   - name: BVI AG (Domain bviag.ch)
-    url: https://bviag.ch
+    url: http://bviag.ch
   - name: BVI AG
-    url: https://bvi-innenausbau.ch
+    url: http://bvi-innenausbau.ch
   - name: Communtia
     url: https://communtia.ch
   - name: Daniel Brüngger
@@ -48,13 +46,13 @@ sites:
   - name: Dunedin Arts
     url: https://dunedin-arts.ch
   - name: ELK
-    url: https://e-l-k.ie
+    url: http://elk.ie
   - name: EAO
     url: https://eao.com
   - name: EBC Brugg
     url: https://ebc-brugg.ch
   - name: Elternverein Meilen
-    url: https://evmeilen.ch
+    url: https://elternvereinmeilen.ch
   - name: Elternverein Rüschlikon
     url: https://elternverein-rueschlikon.ch
   - name: Eweco
@@ -120,7 +118,7 @@ sites:
   - name: Re-Medium
     url: https://re-medium.ch
   - name: Roger Hoch
-    url: https://rogerhoch-zahnarzt.ch
+    url: http://rogerhoch-zahnarzt.ch
   - name: Ruggli Partner
     url: https://rugglipartner.ch
   - name: Rychiger AG
