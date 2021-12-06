@@ -59,12 +59,20 @@ sites:
     url: https://elternverein-rueschlikon.ch
   - name: Eweco
     url: https://eweco.ch
+  - name: Ferienwohnugn Vazerol
+    url: https://ferienwohnungvazerol.com
+  - name: Folienmaster
+    url: https://folienmaster.ch
+  - name: Furore Kanalservice
+    url: https://furore.gmbh
   - name: Forum Pfarrblatt
     url: https://forum-pfarrblatt.ch
   - name: Gees Metall
     url: https://geesmetall.ch
   - name: Green Drains
     url: https://green-drains.ch
+  - name: Hand Dryer
+    url: https://handdryer.com
   - name: Heryanora
     url: https://heryanora.com
   - name: Hoffmann Coaching
@@ -73,6 +81,8 @@ sites:
     url: https://humid-or.ch
   - name: Immobilien 4 you
     url: https://immobilien4you.ch
+  - name: Immobilienwelten
+    url: https://immobilienwelten.ch
   - name: Isenbügel
     url: https://isenbuegel.ch
   - name: Kiwanis Höngg
@@ -81,30 +91,82 @@ sites:
     url: https://landolfhuber.ch
   - name: Lesen & Schreiben Bern
     url: https://lesenschreiben-bern.ch/
+  - name: Licht-Raum
+    url: https://licht-raum.ch/
+  - name: Linguaprima
+    url: https://linguaprima.ch
   - name: Lyner Haustechnik AG
     url: https://lyner-haustechnik.ch/
   - name: Macun CP
     url: https://macuncp.ch
   - name: Matthias Lebo
     url: https://matthiaslebo.com
+  - name: Mikro Repro
+    url: https://mikrorepro.ch
   - name: Neuezeit Akademie
     url: https://neuezeit-akademie.swiss
+  - name: Neuezeit Akademie Shop
+    url: https://neuezeit-akademie.shop
   - name: Pfaller AG
     url: https://pfaller.ch
+  - name: Physio-Burgernziel
+    url: https://physio-burgernziel.ch
+  - name: Physiotherapiewissenschaften
+    url: https://physiotherapiewissenschaften.ch
+  - name: Polydesign 3D
+    url: https://p3d.ch    
+  - name: Ramseier Assoc
+    url: https://ramseier-assoc.com
+  - name: Re-Medium
+    url: https://re-medium.ch
+  - name: Roger Hoch
+    url: https://rogerhoch-zahnarzt.ch
+  - name: Ruggli Partner
+    url: https://rugglipartner.ch
   - name: Rychiger AG
     url: https://rychiger.ch
   - name: Schweizer Röntgen
     url: https://schweizer-roentgen.ch
   - name: Selfix AG
     url: https://selfix.ch
+  - name: Sommeliers Choice
+    url: https://sommeliers-choice.ch
+  - name: Staub KG
+    url: https://staubkg.com
+  - name: Stefan Ackermann
+    url: https://stefanackermann.ch
+  - name: Stephen Gould
+    url: https://stephengould.org
+  - name: Stolkin
+    url: https://stolkin.ch
   - name: Swiss CCS
     url: https://swissccs.com
   - name: SGUV
     url: https://sguv.ch
+  - name: TM Bachmann
+    url: https://tm-bachmann.ch
   - name: Urimat
     url: https://urimat.ch
+  - name: Urimat COM
+    url: https://urimat.com
+  - name: Urimat DE
+    url: https://urimat.de
+  - name: Urimat ES
+    url: https://urimat.es
+  - name: Urimat PT
+    url: https://urimat.pt
+  - name: Valentin-Tools LI
+    url: https://valentin-tools.li
+  - name: Wernis Team
+    url: https://wernisteam.ch
+  - name: Wichser Partner
+    url: https://wichser-partner.ch
   - name: Wikipick
     url: https://wikipick.ch
+  - name: Wini
+    url: https://wini.ch
+  - name: Wipswiss
+    url: https://wipswiss.ch
   - name: Zweidler
     url: https://2dler.ch    
 
