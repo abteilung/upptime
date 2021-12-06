@@ -5,10 +5,16 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Abteilung.ch
+    url: https://abteilung.ch
+  - name: Landolf & Huber Juweliere
+    url: https://landolfhuber.ch
+  - name: Rychiger AG
+    url: https://rychiger.ch
+  - name: Ades.ch
+    url: https://ades.ch
+  - name: SGUV
+    url: https://sguv.ch
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
