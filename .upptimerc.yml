@@ -3,8 +3,6 @@ owner: abteilung # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: Abteilung.ch
     url: https://abteilung.ch
   - name: Landolf & Huber Juweliere
@@ -15,8 +13,17 @@ sites:
     url: https://ades.ch
   - name: SGUV
     url: https://sguv.ch
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: DSIM
+    url: https://dsim.ch
+  - name: Ally.Vision
+    url: https://ally.vision
+  - name: My.Ally.Vision
+    url: https://my.ally.vision
+  - name: EAO
+    url: https://eao.com
+  - name: Selfix AG
+    url: https://selfix.ch
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -26,7 +33,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** Website Status Monitor."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: 
   navbar:
     - title: Status
       href: /
