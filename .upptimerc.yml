@@ -5,25 +5,60 @@ repo: upptime # The name of this repository
 sites:
   - name: Abteilung.ch
     url: https://abteilung.ch
-  - name: Landolf & Huber Juweliere
-    url: https://landolfhuber.ch
-  - name: Rychiger AG
-    url: https://rychiger.ch
+  - name: Aarvia AG
+    url: https://aarvia.ch
   - name: Ades.ch
     url: https://ades.ch
-  - name: SGUV
-    url: https://sguv.ch
-  - name: DSIM
-    url: https://dsim.ch
   - name: Ally.Vision
     url: https://ally.vision
   - name: My.Ally.Vision
     url: https://my.ally.vision
+  - name: Asago AG
+    url: https://asago.ch
+  - name: Barcli Hotels
+    url: https://barclihotels.com
+  - name: Barcli Hospitality
+    url: https://barclihospitality.com
+  - name: DSIM
+    url: https://dsim.ch
   - name: EAO
     url: https://eao.com
+  - name: Forum Pfarrblatt
+    url: https://forum-pfarrblatt.ch
+  - name: Heryanora
+    url: https://heryanora.com
+  - name: Hoffmann Coaching
+    url: https://hoffmanncoaching.ch
+  - name: Landolf & Huber Juweliere
+    url: https://landolfhuber.ch
+  - name: Lesen & Schreiben Bern
+    url: https://lesenschreiben-bern.ch/
+  - name: Lyner Haustechnik AG
+    url: https://lyner-haustechnik.ch/
+  - name: Macun CP
+    url: https://macuncp.ch
+  - name: Matthias Lebo
+    url: https://matthiaslebo.com
+  - name: Neuezeit Akademie
+    url: https://neuezeit-akademie.swiss
+  - name: Pfaller AG
+    url: https://pfaller.ch
+  - name: Rychiger AG
+    url: https://rychiger.ch
+  - name: Schweizer Röntgen
+    url: https://schweizer-roentgen.ch
   - name: Selfix AG
     url: https://selfix.ch
-    
+  - name: Swiss CCS
+    url: https://swissccs.ch
+  - name: SGUV
+    url: https://sguv.ch
+  - name: Urimat
+    url: https://urimat.ch
+  - name: Wikipick
+    url: https://wikipick.ch
+  - name: Zweidler
+    url: https://2dler.ch    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
