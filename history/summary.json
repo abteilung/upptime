@@ -142,7 +142,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-09": 69,
+      "2021-12-09": 514,
       "2021-12-08": 1440,
       "2021-12-07": 1440,
       "2021-12-06": 480
@@ -201,7 +201,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-09": 69,
+      "2021-12-09": 514,
       "2021-12-08": 1440,
       "2021-12-07": 1440,
       "2021-12-06": 730
@@ -249,18 +249,18 @@
     "icon": "https://favicons.githubusercontent.com/bviag.ch",
     "slug": "bvi-ag-domain-bviag-ch",
     "status": "down",
-    "uptime": "0.99%",
+    "uptime": "0.88%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.99%",
-    "uptimeMonth": "0.99%",
-    "uptimeYear": "0.99%",
+    "uptimeWeek": "0.88%",
+    "uptimeMonth": "0.88%",
+    "uptimeYear": "0.88%",
     "time": 2988,
     "timeDay": 0,
     "timeWeek": 2988,
     "timeMonth": 2988,
     "timeYear": 2988,
     "dailyMinutesDown": {
-      "2021-12-09": 69,
+      "2021-12-09": 514,
       "2021-12-08": 1440,
       "2021-12-07": 1407,
       "2021-12-06": 480
@@ -283,7 +283,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-09": 69,
+      "2021-12-09": 514,
       "2021-12-08": 1440,
       "2021-12-07": 1440,
       "2021-12-06": 480
@@ -295,11 +295,11 @@
     "icon": "https://favicons.githubusercontent.com/communtia.ch",
     "slug": "communtia",
     "status": "up",
-    "uptime": "58.25%",
+    "uptime": "63.05%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "58.25%",
-    "uptimeMonth": "58.25%",
-    "uptimeYear": "58.25%",
+    "uptimeWeek": "63.05%",
+    "uptimeMonth": "63.05%",
+    "uptimeYear": "63.05%",
     "time": 1102,
     "timeDay": 2256,
     "timeWeek": 1102,
@@ -406,11 +406,11 @@
     "icon": "https://favicons.githubusercontent.com/elk.ie",
     "slug": "elk",
     "status": "up",
-    "uptime": "98.49%",
+    "uptime": "98.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.49%",
-    "uptimeMonth": "98.49%",
-    "uptimeYear": "98.49%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "98.66%",
     "time": 1153,
     "timeDay": 1355,
     "timeWeek": 1153,
@@ -462,11 +462,11 @@
     "icon": "https://favicons.githubusercontent.com/elternvereinmeilen.ch",
     "slug": "elternverein-meilen",
     "status": "up",
-    "uptime": "98.49%",
+    "uptime": "98.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.49%",
-    "uptimeMonth": "98.49%",
-    "uptimeYear": "98.49%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "98.66%",
     "time": 1665,
     "timeDay": 2634,
     "timeWeek": 1665,
@@ -571,19 +571,19 @@
     "url": "https://forum-pfarrblatt.ch",
     "icon": "https://favicons.githubusercontent.com/forum-pfarrblatt.ch",
     "slug": "forum-pfarrblatt",
-    "status": "down",
-    "uptime": "88.60%",
-    "uptimeDay": "70.87%",
-    "uptimeWeek": "88.60%",
-    "uptimeMonth": "88.60%",
-    "uptimeYear": "88.60%",
-    "time": 1225,
-    "timeDay": 1628,
-    "timeWeek": 1225,
-    "timeMonth": 1225,
-    "timeYear": 1225,
+    "status": "up",
+    "uptime": "79.07%",
+    "uptimeDay": "40.05%",
+    "uptimeWeek": "79.07%",
+    "uptimeMonth": "79.07%",
+    "uptimeYear": "79.07%",
+    "time": 1196,
+    "timeDay": 1397,
+    "timeWeek": 1196,
+    "timeMonth": 1196,
+    "timeYear": 1196,
     "dailyMinutesDown": {
-      "2021-12-09": 69,
+      "2021-12-09": 513,
       "2021-12-08": 351
     }
   },
@@ -622,7 +622,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-09": 69,
+      "2021-12-09": 514,
       "2021-12-08": 1440,
       "2021-12-07": 1440,
       "2021-12-06": 479
@@ -843,7 +843,7 @@
     "timeMonth": 665,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2021-12-09": 69,
+      "2021-12-09": 514,
       "2021-12-08": 1440,
       "2021-12-07": 1440,
       "2021-12-06": 468
@@ -909,18 +909,18 @@
     "icon": "https://favicons.githubusercontent.com/mikrorepro.ch",
     "slug": "mikro-repro",
     "status": "up",
-    "uptime": "1.36%",
+    "uptime": "1.20%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "1.36%",
-    "uptimeMonth": "1.36%",
-    "uptimeYear": "1.36%",
+    "uptimeWeek": "1.20%",
+    "uptimeMonth": "1.20%",
+    "uptimeYear": "1.20%",
     "time": 1660,
     "timeDay": 2328,
     "timeWeek": 1660,
     "timeMonth": 1660,
     "timeYear": 1660,
     "dailyMinutesDown": {
-      "2021-12-09": 69,
+      "2021-12-09": 514,
       "2021-12-08": 1440,
       "2021-12-07": 1440,
       "2021-12-06": 422
@@ -979,7 +979,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-09": 138,
+      "2021-12-09": 1028,
       "2021-12-08": 2880,
       "2021-12-07": 2880,
       "2021-12-06": 936
@@ -1002,7 +1002,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-09": 138,
+      "2021-12-09": 1028,
       "2021-12-08": 2880,
       "2021-12-07": 2880,
       "2021-12-06": 936
@@ -1080,7 +1080,7 @@
     "timeYear": 794,
     "dailyMinutesDown": {
       "2021-12-06": 509,
-      "2021-12-09": 69,
+      "2021-12-09": 514,
       "2021-12-08": 1440,
       "2021-12-07": 1440
     }
@@ -1174,7 +1174,7 @@
     "timeMonth": 1196,
     "timeYear": 1196,
     "dailyMinutesDown": {
-      "2021-12-09": 69,
+      "2021-12-09": 514,
       "2021-12-08": 1440,
       "2021-12-07": 1440,
       "2021-12-06": 468
@@ -1251,7 +1251,7 @@
     "timeMonth": 615,
     "timeYear": 615,
     "dailyMinutesDown": {
-      "2021-12-09": 138,
+      "2021-12-09": 1028,
       "2021-12-08": 2880,
       "2021-12-07": 2880,
       "2021-12-06": 934
