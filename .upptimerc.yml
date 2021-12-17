@@ -43,6 +43,8 @@ sites:
     url: https://derbaumpfleger.ch
   - name: Die Coacherei
     url: https://die-coacherei.ch
+  - name: Dike Verlag
+    url: https://dike.ch
   - name: DSIM
     url: https://dsim.ch
   - name: Dunedin Arts
@@ -117,6 +119,8 @@ sites:
     url: https://ramseier-assoc.com
   - name: Re-Medium
     url: https://re-medium.ch
+  - name: Regimo
+    url: https://regimo.ch
   - name: Roger Hoch
     url: http://rogerhoch-zahnarzt.ch
   - name: Ruggli Partner
