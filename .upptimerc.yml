@@ -30,9 +30,7 @@ sites:
   - name: Bonnie & Clyde
     url: https://bonnie-and-clyde.com
   - name: BVI AG (Domain bviag.ch)
-    url: http://bviag.ch
-  - name: BVI AG
-    url: http://bvi-innenausbau.ch
+    url: https://bviag.ch
   - name: Communtia
     url: https://communtia.ch
   - name: Daniela Schlegel
@@ -111,8 +109,6 @@ sites:
     url: https://pfaller.ch
   - name: Physio-Burgernziel
     url: https://physio-burgernziel.ch
-  - name: Physiotherapiewissenschaften
-    url: https://physiotherapiewissenschaften.ch
   - name: Polydesign 3D
     url: https://p3d.ch    
   - name: Ramseier Assoc
