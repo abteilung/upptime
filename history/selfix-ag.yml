@@ -1,7 +1,7 @@
 url: https://selfix.ch
-status: up
-code: 200
-responseTime: 1979
-lastUpdated: 2022-02-25T23:08:06.024Z
+status: down
+code: 503
+responseTime: 513
+lastUpdated: 2022-02-26T06:18:15.260Z
 startTime: Mon Dec 06 2021 11:38:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
