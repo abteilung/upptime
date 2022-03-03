@@ -65,9 +65,9 @@
     "slug": "all-in-one-vt",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 0,
     "timeDay": 0,
@@ -75,7 +75,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-03": 9
+      "2022-03-03": 18
     }
   },
   {
@@ -103,9 +103,9 @@
     "slug": "ally-vision",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 2201,
     "timeDay": 3501,
@@ -113,7 +113,7 @@
     "timeMonth": 2263,
     "timeYear": 2201,
     "dailyMinutesDown": {
-      "2022-03-03": 9
+      "2022-03-03": 18
     }
   },
   {
@@ -182,9 +182,9 @@
     "slug": "baerlocher-legate",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 2225,
     "timeDay": 3029,
@@ -192,7 +192,7 @@
     "timeMonth": 2343,
     "timeYear": 2225,
     "dailyMinutesDown": {
-      "2022-03-03": 8
+      "2022-03-03": 17
     }
   },
   {
@@ -202,9 +202,9 @@
     "slug": "barcli-hotels",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1090,
     "timeDay": 1572,
@@ -212,7 +212,7 @@
     "timeMonth": 1121,
     "timeYear": 1090,
     "dailyMinutesDown": {
-      "2022-03-03": 7
+      "2022-03-03": 17
     }
   },
   {
@@ -291,7 +291,7 @@
     "timeMonth": 3019,
     "timeYear": 3636,
     "dailyMinutesDown": {
-      "2022-03-03": 532,
+      "2022-03-03": 541,
       "2022-03-02": 1440,
       "2022-03-01": 1440,
       "2022-02-28": 1440,
@@ -372,18 +372,18 @@
     "icon": "https://favicons.githubusercontent.com/communtia.ch",
     "slug": "communtia",
     "status": "up",
-    "uptime": "98.84%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "98.84%",
+    "uptime": "98.83%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "98.83%",
     "time": 1046,
     "timeDay": 931,
     "timeWeek": 1088,
     "timeMonth": 812,
     "timeYear": 1046,
     "dailyMinutesDown": {
-      "2022-03-03": 6,
+      "2022-03-03": 15,
       "2022-02-08": 16,
       "2021-12-07": 952,
       "2021-12-06": 480
@@ -434,18 +434,18 @@
     "icon": "https://favicons.githubusercontent.com/derbaumpfleger.ch",
     "slug": "der-baumpfleger",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.93%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.93%",
     "time": 1367,
     "timeDay": 1124,
     "timeWeek": 1268,
     "timeMonth": 1266,
     "timeYear": 1367,
     "dailyMinutesDown": {
-      "2022-03-03": 5,
+      "2022-03-03": 14,
       "2022-02-20": 30,
       "2022-02-05": 42
     }
@@ -456,18 +456,18 @@
     "icon": "https://favicons.githubusercontent.com/die-coacherei.ch",
     "slug": "die-coacherei",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 1158,
     "timeDay": 747,
     "timeWeek": 1286,
     "timeMonth": 1190,
     "timeYear": 1158,
     "dailyMinutesDown": {
-      "2022-03-03": 4
+      "2022-03-03": 13
     }
   },
   {
@@ -532,18 +532,18 @@
     "icon": "https://favicons.githubusercontent.com/dunedin-arts.ch",
     "slug": "dunedin-arts",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 2831,
     "timeDay": 3544,
     "timeWeek": 3140,
     "timeMonth": 2712,
     "timeYear": 2831,
     "dailyMinutesDown": {
-      "2022-03-03": 4
+      "2022-03-03": 13
     }
   },
   {
@@ -553,8 +553,8 @@
     "slug": "elk",
     "status": "up",
     "uptime": "84.86%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
     "uptimeMonth": "79.25%",
     "uptimeYear": "84.86%",
     "time": 1045,
@@ -563,7 +563,7 @@
     "timeMonth": 837,
     "timeYear": 1045,
     "dailyMinutesDown": {
-      "2022-03-03": 3,
+      "2022-03-03": 13,
       "2022-02-09": 980,
       "2022-02-08": 1440,
       "2022-02-07": 1440,
@@ -612,18 +612,18 @@
     "icon": "https://favicons.githubusercontent.com/ebc-brugg.ch",
     "slug": "ebc-brugg",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 1235,
     "timeDay": 1462,
     "timeWeek": 1302,
     "timeMonth": 1227,
     "timeYear": 1235,
     "dailyMinutesDown": {
-      "2022-03-03": 3
+      "2022-03-03": 12
     }
   },
   {
@@ -652,18 +652,18 @@
     "icon": "https://favicons.githubusercontent.com/elternverein-rueschlikon.ch",
     "slug": "elternverein-rueschlikon",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 3843,
     "timeDay": 5574,
     "timeWeek": 4761,
     "timeMonth": 4007,
     "timeYear": 3843,
     "dailyMinutesDown": {
-      "2022-03-03": 3
+      "2022-03-03": 12
     }
   },
   {
@@ -673,8 +673,8 @@
     "slug": "eweco",
     "status": "up",
     "uptime": "84.01%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
     "uptimeMonth": "76.70%",
     "uptimeYear": "84.01%",
     "time": 1136,
@@ -683,7 +683,7 @@
     "timeMonth": 761,
     "timeYear": 1136,
     "dailyMinutesDown": {
-      "2022-03-03": 2,
+      "2022-03-03": 11,
       "2022-02-10": 656,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
@@ -725,18 +725,18 @@
     "icon": "https://favicons.githubusercontent.com/folienmaster.ch",
     "slug": "folienmaster",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 1406,
     "timeDay": 1888,
     "timeWeek": 1353,
     "timeMonth": 1454,
     "timeYear": 1406,
     "dailyMinutesDown": {
-      "2022-03-03": 1
+      "2022-03-03": 10
     }
   },
   {
@@ -745,18 +745,18 @@
     "icon": "https://favicons.githubusercontent.com/furore.gmbh",
     "slug": "furore-kanalservice",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 1535,
     "timeDay": 1999,
     "timeWeek": 1663,
     "timeMonth": 1649,
     "timeYear": 1535,
     "dailyMinutesDown": {
-      "2022-03-03": 1
+      "2022-03-03": 10
     }
   },
   {
@@ -786,18 +786,18 @@
     "icon": "https://favicons.githubusercontent.com/geesmetall.ch",
     "slug": "gees-metall",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 1222,
     "timeDay": 1592,
     "timeWeek": 1400,
     "timeMonth": 1258,
     "timeYear": 1222,
     "dailyMinutesDown": {
-      "2022-03-03": 0
+      "2022-03-03": 9
     }
   },
   {
@@ -807,9 +807,9 @@
     "slug": "green-drains",
     "status": "up",
     "uptime": "80.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "80.31%",
     "time": 1745,
     "timeDay": 2326,
@@ -817,6 +817,7 @@
     "timeMonth": 1650,
     "timeYear": 1745,
     "dailyMinutesDown": {
+      "2022-03-03": 8,
       "2021-12-23": 1062,
       "2021-12-22": 1440,
       "2021-12-21": 1440,
@@ -899,17 +900,19 @@
     "icon": "https://favicons.githubusercontent.com/humid-or.ch",
     "slug": "humid-or",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 3004,
     "timeDay": 5362,
     "timeWeek": 3503,
     "timeMonth": 3094,
     "timeYear": 3004,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-03": 8
+    }
   },
   {
     "name": "Immobilien 4 you",
@@ -917,17 +920,19 @@
     "icon": "https://favicons.githubusercontent.com/immobilien4you.ch",
     "slug": "immobilien-4-you",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 1368,
     "timeDay": 1694,
     "timeWeek": 1488,
     "timeMonth": 1404,
     "timeYear": 1368,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-03": 7
+    }
   },
   {
     "name": "Immobilienwelten",
@@ -953,17 +958,19 @@
     "icon": "https://favicons.githubusercontent.com/isenbuegel.ch",
     "slug": "isenbuegel",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 613,
     "timeDay": 541,
     "timeWeek": 605,
     "timeMonth": 684,
     "timeYear": 613,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-03": 6
+    }
   },
   {
     "name": "Kiwanis Höngg",
@@ -972,16 +979,18 @@
     "slug": "kiwanis-hoengg",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1449,
     "timeDay": 1875,
     "timeWeek": 2040,
     "timeMonth": 1928,
     "timeYear": 1449,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-03": 6
+    }
   },
   {
     "name": "Landolf & Huber Juweliere",
@@ -1058,7 +1067,7 @@
     "timeMonth": 661,
     "timeYear": 920,
     "dailyMinutesDown": {
-      "2022-03-03": 532,
+      "2022-03-03": 541,
       "2022-03-02": 1440,
       "2022-03-01": 1440,
       "2022-02-28": 1440,
@@ -1123,19 +1132,19 @@
     "url": "https://lyner-haustechnik.ch/",
     "icon": "https://favicons.githubusercontent.com/lyner-haustechnik.ch",
     "slug": "lyner-haustechnik-ag",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.93%",
-    "time": 1139,
-    "timeDay": 702,
-    "timeWeek": 2501,
-    "timeMonth": 1520,
-    "timeYear": 1139,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.92%",
+    "time": 1137,
+    "timeDay": 776,
+    "timeWeek": 2357,
+    "timeMonth": 1502,
+    "timeYear": 1137,
     "dailyMinutesDown": {
-      "2022-03-03": 1,
+      "2022-03-03": 9,
       "2022-02-28": 17,
       "2022-02-17": 49,
       "2022-02-15": 21
@@ -1150,7 +1159,7 @@
     "uptime": "92.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.88%",
+    "uptimeMonth": "98.90%",
     "uptimeYear": "92.00%",
     "time": 1559,
     "timeDay": 557,
@@ -1253,11 +1262,11 @@
     "icon": "https://favicons.githubusercontent.com/physio-burgernziel.ch",
     "slug": "physio-burgernziel",
     "status": "down",
-    "uptime": "51.78%",
+    "uptime": "51.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "51.78%",
+    "uptimeYear": "51.79%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1412,7 +1421,7 @@
     "uptime": "83.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.29%",
+    "uptimeMonth": "75.32%",
     "uptimeYear": "83.52%",
     "time": 2343,
     "timeDay": 1960,
@@ -1518,7 +1527,7 @@
     "timeMonth": 1530,
     "timeYear": 1553,
     "dailyMinutesDown": {
-      "2022-03-03": 533,
+      "2022-03-03": 542,
       "2022-03-02": 1440,
       "2022-03-01": 1440,
       "2022-02-28": 1440,
@@ -1631,7 +1640,7 @@
     "timeMonth": 710,
     "timeYear": 921,
     "dailyMinutesDown": {
-      "2022-03-03": 533,
+      "2022-03-03": 542,
       "2022-03-02": 1440,
       "2022-03-01": 1440,
       "2022-02-28": 1440,
