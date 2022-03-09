@@ -1,7 +1,7 @@
 url: https://wikipick.ch
-status: up
-code: 200
-responseTime: 4028
-lastUpdated: 2022-03-08T23:09:36.271Z
+status: down
+code: 500
+responseTime: 1445
+lastUpdated: 2022-03-09T13:02:32.613Z
 startTime: Mon Dec 06 2021 11:51:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
