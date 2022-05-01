@@ -1,7 +1,7 @@
 url: https://eao.com
-status: down
-code: 503
-responseTime: 2058
-lastUpdated: 2022-05-01T05:51:52.286Z
+status: up
+code: 200
+responseTime: 9765
+lastUpdated: 2022-05-01T05:57:59.629Z
 startTime: Mon Dec 06 2021 11:38:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
